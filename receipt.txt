@@ -1,6 +1,0 @@
-==
-CODE		NAME		QUANTITY		SUBTOTAL
-americano		Americano		2		300.0
-
-Total:								300.0
-==
